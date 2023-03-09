@@ -2,11 +2,11 @@
 
 Contacto / Contact:
 
-Instagram: @xjeon_jsjs
+Instagram: @mxjeonsg
 
-E-Mail: mxjeonah@gmail.com
+E-Mail: akjeon0@gmail.com
 
-WhatsApp/Telegram: +1 (616) 210 6572
+WhatsApp/Telegram: +1 (234) 567-8901
 
 
 
