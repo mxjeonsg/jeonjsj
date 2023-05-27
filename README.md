@@ -1,12 +1,4 @@
-ª.
-
-Contacto / Contact:
-
-Instagram: @mxjeonsg
-
-E-Mail: akjeon0@gmail.com
-
-WhatsApp/Telegram: +1 (234) 567-8901
+i'm pretty sure i'll not going to update this bio.
 
 
 
