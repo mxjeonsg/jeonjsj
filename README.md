@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeon (or Winter, they're me)</h1>
-<h3 align="center">A passionate frontend developer from the middle of nowhere.</h3>
+<h3 align="center">A passionate newbie developer from the middle of nowhere.</h3>
 
 - 🔭 I’m currently working on [UselessHeader (a useless header from my projects)](https://github.com/mxjeonsg/uselesslib)
 
