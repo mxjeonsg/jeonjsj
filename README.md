@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jeon (or Winter, they're me)</h1>
-<h3 align="center">A passionate newbie developer from the middle of nowhere.</h3>
+<h1 align="center">Hi 🗿, I'm Jeon (or Winter, they're me)</h1>
+<h3 align="center">A passionate newbie developer from the middle of nowhere. (Michoacan, Mexico)</h3>
+
+- 🇨🇳 Useless screenshot of some dumb function.
+<img src="IMG/Screenshot_2023-07-10-00-24-25-771-edit_com.foxdebug.acode.jpg"/>
 
 - 🔭 I’m currently working on [UselessHeader (a useless header from my projects)](https://github.com/mxjeonsg/uselesslib)
 
