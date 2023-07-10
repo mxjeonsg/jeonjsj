@@ -26,9 +26,9 @@
 
 
 
-- 🔭 I’m currently working on [UselessHeader (a useless header from my projects)](https://github.com/mxjeonsg/uselesslib)
+- 🔭 I’m currently working on [newstd (a useless new standard library in C++)](https://github.com/mxjeonsg/newstd)
 
-- 🌱 I’m currently learning **C and lua. lol**
+- 🌱 I’m currently learning **C and C++. lol**
 
 - 👯 I’m looking to collaborate on [Mamita's Puebla reconstruction](<none>)
 
@@ -50,6 +50,7 @@
   + **I'm 18 years old, yep**
   + **I'm Mexican and my state doesn't look sepia, that dissapoints me.**
   + **I like C, and idk if I want to learn Rust or Go, maybe i do if i want to eat.**
+  + **I'm conlanger, yeah.**
   + **I'm a watermelon fan.**
 
 <h3 align="left">Connect with me:</h3>
