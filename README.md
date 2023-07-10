@@ -1,8 +1,29 @@
-<h1 align="center">Hi 🗿, I'm Jeon (or Winter, they're me)</h1>
+h1 align="center">Hi 🗿, I'm Jeon (or Winter, they're me)</h1>
 <h3 align="center">A passionate newbie developer from the middle of nowhere. (Michoacan, Mexico)</h3>
 
 - 🇨🇳 Useless screenshot of some dumb function.
 <img src="IMG/Screenshot_2023-07-10-00-24-25-771-edit_com.foxdebug.acode.jpg"/>
+
+- Photo and specs of my setup
+<img src="IMG/#"/>
+(Yep, isn't a lie, i code from my phone)
+- Full specs:
+ + OS: Android 12 aarch64
+ + UX: MIUI 13
+ + Chipset: Mediatek Helio G85 @ 12nm
+ + Processor: Octacore (2x Cortex-A75 @ 2GHz / 6x Cortex-A55 @ 1.8GHz)
+ + GPU: Mali-G52 MC2
+ + Screen: 6.53" 1080x2340px
+ + Storage: Unbranded eMMC v5.1 128GB (~118GB usable)
+ + RAM: Unbranded somemodel 4GB LPDDR4 @???MHz
+- Notes:
+  + Before MIUI 13 (MIUI 12.5//11):
+    * Nice phone, according to price, isn't so bad, maybe a nice choice.
+  + After MIUI 13:
+    * Or the update is an a*s, or my phone is an a*s but godd*mn this update, is worst as f*ck.
+    * This phone is a warrior, extreme use, a worst update, a messy memory management, 70+ hard resets, 2 years, and still is alive.
+
+
 
 - 🔭 I’m currently working on [UselessHeader (a useless header from my projects)](https://github.com/mxjeonsg/uselesslib)
 
@@ -22,10 +43,25 @@
 
 - 📄 Know about my experiences [I heavily cause Segmentation Faults, and I play with pointers as if they was toys. xd]
 
-- ⚡ Fun fact: **I have -2 daystreak on Duolingo.**
+- ⚡ About me section no one asked for:
+  + **I speak Spanish and a bit (nothing) English**
+  + **I'm learning Chinese and Russian**
+  + **I'm 18 years old, yep**
+  + **I'm Mexican and my state doesn't look sepia, that dissapoints me.**
+  + **I like C, and idk if I want to learn Rust or Go, maybe i do if i want to eat.**
+  + **I'm a watermelon fan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - Instagram: <a href="https://instagram.com/@mxjeonsg">lol</a>
+  <p></p>
+  - Toxicity: <a href="https://www.twitter.com/@mxjeonsh">lol again</a
+  <p></p>
+  - Telegram: <a href="t.me/mxjeonsg">lol</a>
+  <p></p>
+  - E-Mail (Yandex): [mxjeonsg@yandex.com]
+  <p></p>
+  - E-Mail (Google): [akjeon0@gmail.com]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
