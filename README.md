@@ -1,4 +1,4 @@
-h1 align="center">Hi 🗿, I'm Jeon (or Winter, they're me)</h1>
+<h1 align="center">Hi 🗿, I'm Jeon (or Winter, they're me)</h1>
 <h3 align="center">A passionate newbie developer from the middle of nowhere. (Michoacan, Mexico)</h3>
 
 - 🇨🇳 Useless screenshot of some dumb function.
