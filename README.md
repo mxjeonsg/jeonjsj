@@ -7,6 +7,7 @@
 - Photo and specs of my setup
 <img src="IMG/Screenshot_2023-07-10-01-40-14-965-edit_com.android.settings.jpg"/>
 (Yep, isn't a lie, i code from my phone)
+
 - Full specs:
  + OS: Android 12 aarch64
  + UX: MIUI 13
