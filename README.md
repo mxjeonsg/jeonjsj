@@ -1,59 +1,54 @@
-<h1 align="center">Hi 🗿, I'm Jeon (or Winter, they're me)</h1>
-<h3 align="center">A passionate newbie developer from the middle of nowhere. (Michoacan, Mexico)</h3>
+<h1 align="center">Хей 🗿, е Еон. (ану Уйнтер, те нара е.)</h1>
+<h3 align="center">Гнйк кодерь страстьдам ой неткьдето(Michoacan, Mexico)</h3>
 
-- 🇨🇳 Useless screenshot of some dumb function.
+- 🇨🇳 Screenshot испьване кон га function.
 <img src="IMG/Screenshot_2023-07-10-00-24-25-771-edit_com.foxdebug.acode.jpg"/>
 
-- Photo and specs of my setup
+- Screenshot и specs за дари setup.
 <img src="IMG/Screenshot_2023-07-10-01-40-14-965-edit_com.android.settings.jpg"/>
-(Yep, isn't a lie, i code from my phone)
+(Да... нет дари люща, е код ен за мобилен.)
 
-- Full specs:
+- Specs мамьпая:
  + OS: Android 12 aarch64
  + UX: MIUI 13
  + Chipset: Mediatek Helio G85 @ 12nm
- + Processor: Octacore (2x Cortex-A75 @ 2GHz / 6x Cortex-A55 @ 1.8GHz)
+ + Процессадор: Octacore (2x Cortex-A75 @ 2GHz / 6x Cortex-A55 @ 1.8GHz)
  + GPU: Mali-G52 MC2
- + Screen: 6.53" 1080x2340px
+ + Екран: 6.53" 1080x2340px
  + Storage: Unbranded eMMC v5.1 128GB (~118GB usable)
  + RAM: Unbranded somemodel 4GB LPDDR4 @???MHz
-- Notes:
-  + Before MIUI 13 (MIUI 12.5//11):
-    * Nice phone, according to price, isn't so bad, maybe a nice choice.
-  + After MIUI 13:
-    * Or the update is an a*s, or my phone is an a*s but godd*mn this update, is worst as f*ck.
-    * This phone is a warrior, extreme use, a worst update, a messy memory management, 70+ hard resets, 2 years, and still is alive.
+- Нота:
+  + Прин MIUI 13 (MIUI 12.5//11):
+    * Омори мобиль, прэсио нет рожъ.
+  + После MIUI 13:
+    * Зан*я, ану update нара Мэрстрана, ану за мобиль нара п#ха, вой что шг# ёх#я нара телчинест.
+    * За мобиль нара га геманть, досгём испьндут, ну update посзавь, ёх#я memory management, и илэъ.
 
 
 
-- 🔭 I’m currently working on [newstd (a useless new standard library in C++)](https://github.com/mxjeonsg/newstd)
+- 🔭 Е мункзнйк эн [newstd (га ваго library хаса чэтэ за векирам C++)](https://github.com/mxjeonsg/newstd)
 
-- 🌱 I’m currently learning **C and C++. lol**
+- 🌱 Е ьтамульзнйк:  **C и C++. хххх**
 
-- 👯 I’m looking to collaborate on [Mamita's Puebla reconstruction](<none>)
+- 👯 Е хототь егютько эн [дерать мулй Mamita's Puebla](<none>)
 
-- 🤝 I’m looking for help with [Be a C expertise](<no>)
+- 🤝 Е хототь шэгисэт [Зная C](<no>)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mxjeonsg](https://github.com/mxjeonsg)
+- 👨‍💻 Дари проект эн:(https://github.com/mxjeonsg)
 
-- 📝 I regularly write articles on [My Notebook](My Notebook)
+- 💬 Ъкэрдз е за: **Primitive types за C, нара лахать е зная**
 
-- 💬 Ask me about **C primitive types, that's everything I know.**
+- 📫 Кам хэлэти е: **akjeon0@gmail.com**
 
-- 📫 How to reach me **akjeon0@gmail.com**
+- ⚡ Нокан "о е" на нетнугнй хототь:
+  + **Вэмэл о серо Англискй.**
+  + **Е ътанульия Чийнскй и Руссианскй**
+  + **Е 18 гём**
+  + **Е мециканскй и дари йистать яхнет Сепиа, тэ растроя.**
+  + **Е хада conlangs, да да.**
+  + **Е fan за тйанка**
 
-- 📄 Know about my experiences [I heavily cause Segmentation Faults, and I play with pointers as if they was toys. xd]
-
-- ⚡ About me section no one asked for:
-  + **I speak Spanish and a bit (nothing) English**
-  + **I'm learning Chinese and Russian**
-  + **I'm 18 years old, yep**
-  + **I'm Mexican and my state doesn't look sepia, that dissapoints me.**
-  + **I like C, and idk if I want to learn Rust or Go, maybe i do if i want to eat.**
-  + **I'm conlanger, yeah.**
-  + **I'm a watermelon fan.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Хэлэти е:</h3>
 <p align="left">
   - Instagram: <a href="https://instagram.com/@mxjeonsg">lol</a>
   <p></p>
@@ -66,7 +61,7 @@
   - E-Mail (Google): [akjeon0@gmail.com]
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Незим и Инструмент:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <!---
