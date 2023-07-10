@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **akjeon0@gmail.com**
 
-- 📄 Know about my experiences [I heavily cause Segmentation Faults, and I play with pointers as if they was toys. xd](I heavily cause Segmentation Faults, and I play with pointers as if they was toys. xd)
+- 📄 Know about my experiences [I heavily cause Segmentation Faults, and I play with pointers as if they was toys. xd]
 
-- ⚡ Fun fact **I have -2 daystreak on Duolingo.**
+- ⚡ Fun fact: **I have -2 daystreak on Duolingo.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
