@@ -1,4 +1,4 @@
-<h1 align="center">Хеy 🗿, ye Jeon. (аnu Uynter, tye nara yе.)</h1>
+<h1 align="center">Хеy 🗿, ye Yeon. (аnu Uynter, tye nara yе.)</h1>
 <h3 align="center">Gnyk koder' strast'dam oy nyetk'deto(Mičhoakan, Myetsiko)<img src="https://cdn3.emoji.gg/emojis/2917-catus.png" width=30 height=30 align=center></img></h3>
 
 - 🇨🇳 Screenshot isp'vane kon ga function.
