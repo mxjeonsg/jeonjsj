@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🗿, I'm Jeon (or Winter, they're me)</h1>
-<h3 align="center">A passionate newbie developer from the middle of nowhere. (Michoacan, Mexico)</h3>
+<h3 align="center">A passionate newbie developer from the middle of nowhere. (Michoacan, Mexico) <img src="https://cdn3.emoji.gg/emojis/2917-catus.png" width=30 height=30 align=center></img></h3>
 
 - 🇨🇳 Useless screenshot of some dumb function.
 <img src="IMG/Screenshot_2023-07-10-00-24-25-771-edit_com.foxdebug.acode.jpg"/>
