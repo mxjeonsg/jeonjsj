@@ -1,12 +1,12 @@
 <h1 align="center">Хеy 🗿, ye Yeon. (аnu Uynter, tye nara yе.)</h1>
-<h3 align="center">Gnyk koder' strast'dam oy nyetk'deto(Mičhoakan, Myetsiko)<img src="https://cdn3.emoji.gg/emojis/2917-catus.png" width=30 height=30 align=center></img></h3>
+<h3 align="center">Gnyk koder' strast'dam oy nyetk'deto(Mjčhoakan, Myetsjko)<img src="https://cdn3.emoji.gg/emojis/2917-catus.png" width=30 height=30 align=center></img></h3>
 
-- 🇨🇳 Screenshot isp'vane kon ga function.
+- 🇨🇳 Screenshot jsp'vane kon ga function.
 <img src="IMG/Screenshot_2023-07-10-00-24-25-771-edit_com.foxdebug.acode.jpg"/>
 
 - Screenshot j specs za darj setup.
 <img src="IMG/Screenshot_2023-07-10-01-40-14-965-edit_com.android.settings.jpg"/>
-(Da... nyet dari lyužča, ye kod en za mobilen.)
+(Da... nyet darj lyužča, ye kod en za mobjlen.)
 
 - Specs mam'paya:
  + OS: Android 12 aarch64
@@ -18,15 +18,15 @@
  + Storage: Unbranded eMMC v5.1 128GB (~118GB usable)
  + RAM: Unbranded somemodel 4GB LPDDR4 @???MHz
 - Nota:
-  + Prin MIUI 13 (MIUI 12.5//11):
+  + Prjn MIUI 13 (MIUI 12.5//11):
     * Omorj mobjl', presjo nyet rož.
   + Poslye MIUI 13:
-    * Zan*ya, anu update nara Merstrana, anu za mobjl' nara p#xa, voy čto shg# yox#ya nara telčinyest.
-    * Za mobjl' nara ga gyemant', dosgyom isp'ndut, nu update poszav', yox#ya memory management, i jlé.
+    * Zan*ya, anu update nara Merstrana, anu za mobjl' nara p#xa, voy čto shg# yox#ya nara telčjnyest.
+    * Za mobjl' nara ga gyemant', dosgyom jsp'ndut, nu update poszav', yox#ya memory management, j jlé.
 
 
 
-- 🔭 Ye munkznyk en [newstd (ga vago library xasa čete za vekiram C++)](https://github.com/mxjeonsg/newstd)
+- 🔭 Ye munkznyk en [newstd (ga vago library xasa čete za vekjram C++)](https://github.com/mxjeonsg/newstd)
 
 - 🌱 Ye tamul'znyk:  **C j C++. хххх**
 
@@ -41,10 +41,10 @@
 - 📫 Kam xeletj ye: **akjeon0@gmail.com**
 
 - ⚡ Nokan "o ye" na nyetnugny xotot':
-  + **Vemel' o sero Anglisky.**
+  + **Vemel' o sero Angljsky.**
   + **Y 'tanuljya čjynsky j Russjansky**
   + **Ye 18 gyom**
-  + **Ye Metsikanskj j darj yjstat' yaxnyet Sepja, te rastroya.**
+  + **Ye Metsjkanskj j darj yjstat' yaxnyet Sepja, te rastroya.**
   + **Ye xada conlangs, da da.**
   + **Ye fan za tyanka**
 
