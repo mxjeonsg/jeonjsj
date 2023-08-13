@@ -1,5 +1,5 @@
 <h1 align="center">Oa 🗿, soy Jeon (o Winter, los dos soy yo.)</h1>
-<h3 align="center">Un programador aficionado del borde de la nada. (Michoacán, México)</h3>
+<h3 align="center">Un programador aficionado del borde de la nada. (Michoacán, México)<img src="https://cdn3.emoji.gg/emojis/2917-catus.png" width=30 height=30 align=center></img></h3>
 
 - 🇨🇳 Captura inútil de una función.
 <img src="IMG/Screenshot_2023-07-10-00-24-25-771-edit_com.foxdebug.acode.jpg"/>
