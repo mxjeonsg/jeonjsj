@@ -1,54 +1,54 @@
-<h1 align="center">Хей 🗿, е Еон. (ану Уйнтер, те нара е.)</h1>
-<h3 align="center">Гнйк кодерь страстьдам ой неткьдето(Мичоакан, Мецико)<img src="https://cdn3.emoji.gg/emojis/2917-catus.png" width=30 height=30 align=center></img></h3>
+<h1 align="center">Хеy 🗿, ye Jeon. (аnu Uynter, tye nara yе.)</h1>
+<h3 align="center">Gnyk koder' strast'dam oy nyetk'deto(Mičhoakan, Myetsiko)<img src="https://cdn3.emoji.gg/emojis/2917-catus.png" width=30 height=30 align=center></img></h3>
 
-- 🇨🇳 Screenshot испьване кон га function.
+- 🇨🇳 Screenshot isp'vane kon ga function.
 <img src="IMG/Screenshot_2023-07-10-00-24-25-771-edit_com.foxdebug.acode.jpg"/>
 
-- Screenshot и specs за дари setup.
+- Screenshot j specs za darj setup.
 <img src="IMG/Screenshot_2023-07-10-01-40-14-965-edit_com.android.settings.jpg"/>
-(Да... нет дари люща, е код ен за мобилен.)
+(Da... nyet dari lyužča, ye kod en za mobilen.)
 
-- Specs мамьпая:
+- Specs mam'paya:
  + OS: Android 12 aarch64
  + UX: MIUI 13
  + Chipset: Mediatek Helio G85 @ 12nm
- + Процессадор: Octacore (2x Cortex-A75 @ 2GHz / 6x Cortex-A55 @ 1.8GHz)
+ + Protsessador: Octacore (2x Cortex-A75 @ 2GHz / 6x Cortex-A55 @ 1.8GHz)
  + GPU: Mali-G52 MC2
- + Екран: 6.53" 1080x2340px
+ + Ekran: 6.53" 1080x2340px
  + Storage: Unbranded eMMC v5.1 128GB (~118GB usable)
  + RAM: Unbranded somemodel 4GB LPDDR4 @???MHz
-- Нота:
-  + Прин MIUI 13 (MIUI 12.5//11):
-    * Омори мобиль, прэсио нет рожъ.
-  + После MIUI 13:
-    * Зан*я, ану update нара Мэрстрана, ану за мобиль нара п#ха, вой что шг# ёх#я нара телчинест.
-    * За мобиль нара га геманть, досгём испьндут, ну update посзавь, ёх#я memory management, и илэъ.
+- Nota:
+  + Prin MIUI 13 (MIUI 12.5//11):
+    * Omorj mobjl', presjo nyet rož.
+  + Poslye MIUI 13:
+    * Zan*ya, anu update nara Merstrana, anu za mobjl' nara p#xa, voy čto shg# yox#ya nara telčinyest.
+    * Za mobjl' nara ga gyemant', dosgyom isp'ndut, nu update poszav', yox#ya memory management, i jlé.
 
 
 
-- 🔭 Е мункзнйк эн [newstd (га ваго library хаса чэтэ за векирам C++)](https://github.com/mxjeonsg/newstd)
+- 🔭 Ye munkznyk en [newstd (ga vago library xasa čete za vekiram C++)](https://github.com/mxjeonsg/newstd)
 
-- 🌱 Е ьтамульзнйк:  **C и C++. хххх**
+- 🌱 Ye tamul'znyk:  **C j C++. хххх**
 
-- 👯 Е хототь егютько эн [дерать мулй Mamita's Puebla](<none>)
+- 👯 Ye xotot' yegyut'ko en [derat' muly Mamita's Puebla](<none>)
 
-- 🤝 Е хототь шэгисэт [Зная C](<no>)
+- 🤝 Ye xotot' šegjset [Znaya C](<no>)
 
-- 👨‍💻 Дари проект эн:(https://github.com/mxjeonsg)
+- 👨‍💻 Darj proyekt en:(https://github.com/mxjeonsg)
 
-- 💬 Ъкэрдз е за: **Primitive types за C, нара лахать е зная**
+- 💬 'Kerdz ye za: **Primitive types za C, nara laxat' ye znaya**
 
-- 📫 Кам хэлэти е: **akjeon0@gmail.com**
+- 📫 Kam xeletj ye: **akjeon0@gmail.com**
 
-- ⚡ Нокан "о е" на нетнугнй хототь:
-  + **Вэмэл о серо Англискй.**
-  + **Е ътанульия Чийнскй и Руссианскй**
-  + **Е 18 гём**
-  + **Е мециканскй и дари йистать яхнет Сепиа, тэ растроя.**
-  + **Е хада conlangs, да да.**
-  + **Е fan за тйанка**
+- ⚡ Nokan "o ye" na nyetnugny xotot':
+  + **Vemel' o sero Anglisky.**
+  + **Y 'tanuljya čjynsky j Russjansky**
+  + **Ye 18 gyom**
+  + **Ye Metsikanskj j darj yjstat' yaxnyet Sepja, te rastroya.**
+  + **Ye xada conlangs, da da.**
+  + **Ye fan za tyanka**
 
-<h3 align="left">Хэлэти е:</h3>
+<h3 align="left">Xeletj ye:</h3>
 <p align="left">
   - Instagram: <a href="https://instagram.com/@mxjeonsg">lol</a>
   <p></p>
@@ -61,7 +61,7 @@
   - E-Mail (Google): [akjeon0@gmail.com]
 </p>
 
-<h3 align="left">Незим и Инструмент:</h3>
+<h3 align="left">Hyezjm j jnstrument:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <!---
