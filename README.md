@@ -1,47 +1,50 @@
-<h1 align="center">Hi 🗿, I'm Jeon (or Winter, they're me)</h1>
-<h3 align="center">A passionate newbie developer from the middle of nowhere. (Michoacan, Mexico) <img src="https://cdn3.emoji.gg/emojis/2917-catus.png" width=30 height=30 align=center></img></h3>
+# %% Howdy? Welcome:D (Maybe not that well though)
 
-- Photo and specs of my setup
-<img src="IMG/Screenshot from 2024-11-12 22-18-24.png"/>
+![Header](https://via.placeholder.com/1000x300/FFC0B0/FFFFFF?text=Welcum!)
 
-- Full specs:
- + OS: FreeBSD 14.1-RELEASE amd64
- + DE: GNOME
- + Processor: Intel Core i5 10th gen. (10210U)
- + GPU: Whatever the processor has included. lol
- + Storage: Western Digital NVMe 512GB
- + RAM: Unbranded somemodel 8GB DDR4 @1???MHz
+### 🌟 About Me 🌟
+Sup. I'm **Jeon** 👾
 
+🎀 Hating JavaScript is a *MUST*.
 
+🌸 Lover of pink, purple, anime, and creating ~~cool~~ stuff!
 
-- 🔭 I’m currently working on [Luna, a social network](https://github.com/mxjeonsg/luna-project)
+💻 Working on [World Destroyer model 40](https://github.com/mxjeonsg/wd-40), a Discord bot.
 
-- 🌱 I’m currently learning **Rust? lol**
+🌠 Obsessed with [her]. 
 
-- 👯 I’m looking to collaborate on [Mamita's Puebla reconstruction](about:blank)
-- 
-- 👨‍💻 All of my projects are available at [https://github.com/mxjeonsg](https://github.com/mxjeonsg)
+---
 
-- 💬 Ask me about **C primitive types, that's everything I know.**
+### 💾 My Tech Arsenal 💾
+- **Languages:** C, Lua, HTML/CSS, Python, Spanish, English
+- **Frameworks & tools:** GTK, LMMS
+- **Special powers:** Conlanging
 
-- 📫 How to reach me **ndivinity690@gmail.com**
+---
 
-- 📄 Know about my experiences [I heavily cause Segmentation Faults, and I play with pointers as if they was toys. xd]
+### 🌈 Current Projects 🌈
+1. 🌐 **[World Destroyer (WD) model 40]** - [A Discord Bot for true gamblers.]
+2. 🎶 **[Music composition with LMMS]** - [lmao]
+3. 🌙 **[Luna Project]** - [A social media where you crawl for attention, powered by C]
 
-- ⚡ About me section no one asked for:
-  + **I speak Spanish and a bit (nothing) English**
-  + **I'm learning Chinese, Romanian and Russian**
-  + **I'm 19 years old, yep**
-  + **I'm Mexican and my state doesn't look sepia, that dissapoints me.**
-  + **I like C, and idk if I want to learn Rust or Go, maybe i will if i want to eat.**
-  + **I'm conlanger, yeah.**
-  + **I'm a watermelon fan.**
+---
 
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+###  📊 GitHub Stats 📊
+![My stats](https://github-readme-stats.vercel.app/api?username=mxjeonsg&show_icons=true&theme=tokyonight)
 
-<!---
-jeonjsj/jeonjsj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----!>
+---
+
+### 🦄 Facts about me 🦄
+- My country: Tacoland🇲🇽
+- My favourite anime: [Ranma 1/2](https://myanimelist.net/anime/210/Ranma_%C2%BD?q=ranma%20nibun%20no%20ichi&cat=anime)
+- My dream project: [Luna Project].
+- My secret weapon: [My British accent]
+
+---
+
+### 💖 Connect with me 💖
+- Mastodon: [@ndivinity](https://mastodon.social/@ndivinity)
+
+---
+
+![Footer](https://via.placeholder.com/1000x100/FFC0B0/FFFFFF?text=Thanks+for+stopping+by!+(●'◡'●))
